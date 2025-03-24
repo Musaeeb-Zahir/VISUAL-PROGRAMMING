@@ -1,6 +1,6 @@
 # 🎓University Assignments Repository
 
-Welcome to my GitHub repository for university tasks and assignments! This repository serves as a centralized hub for projects, exercises, and solutions related to my coursework, including **Visual Programming**, **C#**, and other programming subjects. It is maintained to showcase my progress and skills throughout the academic journey under the guidance of esteemed instructors like **Tajmeet**.
+Welcome to my GitHub repository for university tasks and assignments! This repository serves as a centralized hub for projects, exercises, and solutions related to my coursework, including **Visual Programming**, **C#**, and other programming subjects. It is maintained to showcase my progress and skills throughout the academic journey under the guidance of esteemed instructors Sir **Tajmir Khan**.
 
 ## Purpose
 The goal of this repository is to:
