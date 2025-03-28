@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\bin\Debug\net8.0\2_TypeCasting.exe
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\bin\Debug\net8.0\2_TypeCasting.deps.json
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\bin\Debug\net8.0\2_TypeCasting.runtimeconfig.json
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\bin\Debug\net8.0\2_TypeCasting.dll
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\bin\Debug\net8.0\2_TypeCasting.pdb
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\obj\Debug\net8.0\2_TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\obj\Debug\net8.0\2_TypeCasting.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\obj\Debug\net8.0\2_TypeCasting.AssemblyInfo.cs
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\obj\Debug\net8.0\2_TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\obj\Debug\net8.0\2_TypeCasting.sourcelink.json
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\obj\Debug\net8.0\2_TypeCasting.dll
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\obj\Debug\net8.0\refint\2_TypeCasting.dll
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\obj\Debug\net8.0\2_TypeCasting.pdb
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\obj\Debug\net8.0\2_TypeCasting.genruntimeconfig.cache
+C:\Users\HP\Desktop\uni\3rd semester\VP\Visual-programming\visaul-progrmming\2_TypeCasting\2_TypeCasting\obj\Debug\net8.0\ref\2_TypeCasting.dll
